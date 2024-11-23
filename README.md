@@ -4,7 +4,7 @@
 </div>
 
 <div align="left">
-<img align="right" alt="GIF" width="200" src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" />
+<img align="right" alt="GIF" width="210" src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" />
 ## 🌍 Sobre mí
 Soy **Christofer Falla Villarreal**, un apasionado **Desarrollador Web Fullstack** con experiencia en **Laravel**, **PHP** y bases de datos como MySQL y PostgreSQL. Estoy constantemente explorando nuevas tecnologías, especialmente en el ámbito de DevOps con **Docker** y **Kubernetes**. 
 
@@ -29,8 +29,8 @@ Me encanta colaborar en equipos ágiles y crear soluciones escalables. Mi objeti
 ---
 <h2 align="center">📊 GitHub Stats</h2>
 <div align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=chrisfalla&show_icons=true&count_private=true&theme=algolia" alt="GitHub Stats" style="margin-right: 10px;" />
-  <img height="180" src="https://streak-stats.demolab.com?user=chrisfalla&theme=algolia&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" style="margin-left: 10px;" />
+  <img height="150" src="https://github-readme-stats.vercel.app/api?username=chrisfalla&show_icons=true&count_private=true&theme=algolia" alt="GitHub Stats" style="margin-right: 10px;" />
+  <img height="150" src="https://streak-stats.demolab.com?user=chrisfalla&theme=algolia&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" style="margin-left: 10px;" />
 </div>
 
 ---
