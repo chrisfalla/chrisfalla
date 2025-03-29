@@ -14,7 +14,7 @@ Además de trabajar con HTML, CSS, JavaScript y frameworks como Bootstrap, disfr
 Estoy en un constante aprendizaje, actualmente explorando el emocionante mundo de Docker y Kubernetes, herramientas clave para la infraestructura y despliegue moderno.  
 
 ### 🛠️ Tecnologías y herramientas que manejo:  
-- Lenguajes: Laravel (PHP), Python, JavaScript, HTML, CSS.  
+- Lenguajes: Laravel (PHP), JavaScript, HTML, CSS.  
 - Bases de datos: PostgreSQL, MySQL, SQL.  
 - Herramientas: Docker, Kubernetes, Git, VS Code.  
 - Frameworks y librerías: Bootstrap, Laravel.  
