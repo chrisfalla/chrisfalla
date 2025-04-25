@@ -5,22 +5,7 @@
 
 <div align="left">
 <img align="right" alt="GIF" width="210" src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" />
-🌍 Sobre mí  
-
-Hola, soy Christofer Falla Villarreal, un Desarrollador Web Fullstack apasionado por crear soluciones tecnológicas innovadoras. Mi experiencia se centra en el desarrollo con Laravel y PHP, integrando tecnologías modernas para construir aplicaciones robustas y escalables.  
-
-Además de trabajar con HTML, CSS, JavaScript y frameworks como Bootstrap, disfruto optimizando bases de datos relacionales como PostgreSQL y SQL, garantizando rendimiento y fiabilidad.  
-
-Estoy en un constante aprendizaje, actualmente explorando el emocionante mundo de Docker y Kubernetes, herramientas clave para la infraestructura y despliegue moderno.  
-
-### 🛠️ Tecnologías y herramientas que manejo:  
-- Lenguajes: Laravel (PHP), JavaScript, HTML, CSS.  
-- Bases de datos: PostgreSQL, MySQL, SQL.  
-- Herramientas: Docker, Kubernetes, Git, VS Code.  
-- Frameworks y librerías: Bootstrap, Laravel.  
-
-### 🚀 Mi enfoque:  
-Trabajo para construir aplicaciones intuitivas y escalables, colaborando en equipos ágiles y resolviendo problemas reales con tecnología. Si compartes mi pasión por el desarrollo web y las tecnologías emergentes, ¡me encantaría colaborar contigo!  
+ 
 
 ### 📩 ¿Quieres contactarme?  
 - Correo: christoferfallavillarreal@gmail.com  
