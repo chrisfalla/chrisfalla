@@ -4,7 +4,7 @@
 </div>
 
 <div align="left">
-<img align="right" alt="GIF" width="210" src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" />
+<!-- <img align="right" alt="GIF" width="210" src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" /> -->
  
 
 ### 📩 ¿Quieres contactarme?  
