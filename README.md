@@ -95,13 +95,16 @@ Estado:         Redux
 
 <div align="center">
 
-![Node.js](https://img.shields.io/badge/Node.js-339933? style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![. NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![npm](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
 ![pnpm](https://img.shields.io/badge/pnpm-F69220?style=for-the-badge&logo=pnpm&logoColor=white)
+
+</div>
+
 
 </div>
 
@@ -124,10 +127,11 @@ Arquitectura:   Clean Architecture, API REST
 <div align="center">
 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1? style=for-the-badge&logo=mysql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
 
 </div>
+
 
 ```yaml
 Relacionales:   PostgreSQL, MySQL, SQL Server
@@ -188,9 +192,11 @@ Análisis:          Data Analysis, Business Intelligence
 
 ![Google Maps](https://img.shields.io/badge/Google_Maps-4285F4?style=for-the-badge&logo=google-maps&logoColor=white)
 ![REST API](https://img.shields.io/badge/REST_API-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![JSON](https://img.shields.io/badge/JSON-000000? style=for-the-badge&logo=json&logoColor=white)
+![JSON](https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge)
 
 </div>
+
 
 ```yaml
 Integración:    Google Maps API, REST APIs
@@ -289,34 +295,12 @@ Proyectos:      Integración Hardware/Software
 
 ---
 
-## 📊 Estadísticas de GitHub
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=chrisfalla&show_icons=true&count_private=true&theme=algolia&hide_border=true&bg_color=0D1117" alt="GitHub Stats" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chrisfalla&layout=compact&theme=algolia&hide_border=true&bg_color=0D1117&langs_count=10" alt="Top Languages" />
-</div>
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=chrisfalla&theme=algolia&hide_border=true&background=0D1117&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
-</div>
-
----
-
 ## 🐍 Contribuciones
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/huiishan99/huiishan99/output/github-contribution-grid-snake-dark. svg">
-  <source media="(prefers-color-scheme:  light)" srcset="https://raw.githubusercontent.com/huiishan99/huiishan99/output/github-contribution-grid-snake.svg">
+   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/huiishan99/huiishan99/output/github-contribution-grid-snake-dark.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/huiishan99/huiishan99/output/github-contribution-grid-snake.svg">
 </picture>
-
----
-
-## 🏆 Logros de GitHub
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=chrisfalla&theme=algolia&no-frame=true&no-bg=true&row=1&column=7" alt="GitHub Trophies" />
-</div>
 
 ---
 
@@ -324,10 +308,11 @@ Proyectos:      Integración Hardware/Software
 
 <div align="center">
 
-![Español](https://img.shields.io/badge/Español-Nativo-success? style=for-the-badge)
-![Inglés](https://img.shields.io/badge/Inglés-Intermedio-blue?style=for-the-badge)
+![Español](https://img.shields.io/badge/Espa%C3%B1ol-Nativo-success?style=for-the-badge)
+![Inglés](https://img.shields.io/badge/Ingl%C3%A9s-Intermedio-blue?style=for-the-badge)
 
 </div>
+
 
 - 🇪🇸 **Español**:  Nativo
 - 🇺🇸 **Inglés**: Intermedio (en desarrollo)
